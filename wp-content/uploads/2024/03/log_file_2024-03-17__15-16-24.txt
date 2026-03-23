@@ -1,0 +1,36 @@
+
+---Downloaded files---
+The import files for: Mercury Casino 4 were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = https://1xgambling.com
+Data file = /var/www/affiliates/1xgambling.com/wp-content/uploads/2024/03/demo-content-import-file_2024-03-17__15-16-24.xml
+Widget file = /var/www/affiliates/1xgambling.com/wp-content/uploads/2024/03/demo-widgets-import-file_2024-03-17__15-16-24.json
+Customizer file = /var/www/affiliates/1xgambling.com/wp-content/uploads/2024/03/demo-customizer-import-file_2024-03-17__15-16-24.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Homepage Right Sidebar (Old) : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
