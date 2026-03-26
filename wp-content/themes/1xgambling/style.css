@@ -6,3 +6,24 @@ Version: 1.0.0
 */
 @import url("../mercury/style.css");
 
+.space-header-wrap {
+    z-index: 1000;
+}
+
+.slotsl-container {
+    padding-inline: 0;
+}
+
+/* Full-width blocks inside casino/bonus/betting archive page templates */
+.space-taxonomy-description .space-page-content {
+    overflow: visible;
+}
+.space-taxonomy-description .alignfull {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100vw;
+    max-width: 100vw;
+    margin-top: 0;
+    margin-bottom: 0;
+}
