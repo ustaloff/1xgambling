@@ -79,28 +79,67 @@ $content = '
 
 <!-- wp:spacer {"height":"40px"} --><div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div><!-- /wp:spacer -->
 
-<!-- wp:cover {"customOverlayColor":"#143056","isUserOverlayColor":true,"minHeight":160,"minHeightUnit":"px","isDark":true,"align":"full"} -->
-<div class="wp-block-cover alignfull" style="min-height:160px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim" style="background-color:#143056"></span><div class="wp-block-cover__inner-container">
-<!-- wp:columns -->
+<!-- wp:cover {"url":"https://1xgambling.com/wp-content/uploads/2024/10/Container-1.png","dimRatio":0,"overlayColor":"mercury-gray","isUserOverlayColor":true,"minHeight":260,"minHeightUnit":"px","align":"full"} -->
+<div class="wp-block-cover alignfull" style="min-height:260px"><img class="wp-block-cover__image-background" alt="" src="https://1xgambling.com/wp-content/uploads/2024/10/Container-1.png" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-mercury-gray-background-color has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container">
+<!-- wp:spacer {"height":"32px"} --><div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div><!-- /wp:spacer -->
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"24px"}}}} -->
 <div class="wp-block-columns">
+
 <!-- wp:column --><div class="wp-block-column">
-<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#3e8bff"},"typography":{"fontSize":"42px","fontWeight":"700"}}} --><p class="has-text-align-center has-text-color" style="color:#3e8bff;font-size:42px;font-weight:700">30+</p><!-- /wp:paragraph -->
-<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#aabbcc"}}} --><p class="has-text-align-center has-text-color" style="color:#aabbcc">Sports Covered</p><!-- /wp:paragraph -->
+<!-- wp:group {"style":{"border":{"radius":"16px"},"spacing":{"padding":{"top":"32px","bottom":"32px","left":"24px","right":"24px"}},"color":{"background":"#ffffff"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} --><div class="wp-block-group has-background" style="border-radius:16px;background-color:#ffffff;padding-top:32px;padding-bottom:32px;padding-left:24px;padding-right:24px">
+<!-- wp:group {"layout":{"type":"flex","justifyContent":"center"}} --><div class="wp-block-group">
+<!-- wp:group {"style":{"border":{"radius":"12px"},"spacing":{"padding":{"top":"14px","bottom":"14px","left":"14px","right":"14px"}},"color":{"background":"#eef3ff"}},"layout":{"type":"constrained"}} --><div class="wp-block-group has-background" style="border-radius:12px;background-color:#eef3ff;padding:14px">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"28px","lineHeight":"1"},"spacing":{"margin":{"top":"0","bottom":"0"}}}} --><p class="has-text-align-center" style="font-size:28px;line-height:1;margin-top:0;margin-bottom:0">⚽</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
+</div><!-- /wp:group -->
+<!-- wp:spacer {"height":"12px"} --><div style="height:12px" aria-hidden="true" class="wp-block-spacer"></div><!-- /wp:spacer -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#3e8bff"},"typography":{"fontSize":"42px","fontWeight":"700","lineHeight":"1"}}} --><p class="has-text-align-center has-text-color" style="color:#3e8bff;font-size:42px;font-weight:700;line-height:1">30+</p><!-- /wp:paragraph -->
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"14px","fontWeight":"600"},"color":{"text":"#143056"}}} --><p class="has-text-align-center has-text-color" style="font-size:14px;font-weight:600;color:#143056">Sports Covered</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
 </div><!-- /wp:column -->
+
 <!-- wp:column --><div class="wp-block-column">
-<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#3e8bff"},"typography":{"fontSize":"42px","fontWeight":"700"}}} --><p class="has-text-align-center has-text-color" style="color:#3e8bff;font-size:42px;font-weight:700">1000+</p><!-- /wp:paragraph -->
-<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#aabbcc"}}} --><p class="has-text-align-center has-text-color" style="color:#aabbcc">Daily Markets</p><!-- /wp:paragraph -->
+<!-- wp:group {"style":{"border":{"radius":"16px"},"spacing":{"padding":{"top":"32px","bottom":"32px","left":"24px","right":"24px"}},"color":{"background":"#ffffff"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} --><div class="wp-block-group has-background" style="border-radius:16px;background-color:#ffffff;padding-top:32px;padding-bottom:32px;padding-left:24px;padding-right:24px">
+<!-- wp:group {"layout":{"type":"flex","justifyContent":"center"}} --><div class="wp-block-group">
+<!-- wp:group {"style":{"border":{"radius":"12px"},"spacing":{"padding":{"top":"14px","bottom":"14px","left":"14px","right":"14px"}},"color":{"background":"#eef3ff"}},"layout":{"type":"constrained"}} --><div class="wp-block-group has-background" style="border-radius:12px;background-color:#eef3ff;padding:14px">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"28px","lineHeight":"1"},"spacing":{"margin":{"top":"0","bottom":"0"}}}} --><p class="has-text-align-center" style="font-size:28px;line-height:1;margin-top:0;margin-bottom:0">📊</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
+</div><!-- /wp:group -->
+<!-- wp:spacer {"height":"12px"} --><div style="height:12px" aria-hidden="true" class="wp-block-spacer"></div><!-- /wp:spacer -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#3e8bff"},"typography":{"fontSize":"42px","fontWeight":"700","lineHeight":"1"}}} --><p class="has-text-align-center has-text-color" style="color:#3e8bff;font-size:42px;font-weight:700;line-height:1">1000+</p><!-- /wp:paragraph -->
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"14px","fontWeight":"600"},"color":{"text":"#143056"}}} --><p class="has-text-align-center has-text-color" style="font-size:14px;font-weight:600;color:#143056">Daily Markets</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
 </div><!-- /wp:column -->
+
 <!-- wp:column --><div class="wp-block-column">
-<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#3e8bff"},"typography":{"fontSize":"42px","fontWeight":"700"}}} --><p class="has-text-align-center has-text-color" style="color:#3e8bff;font-size:42px;font-weight:700">Live</p><!-- /wp:paragraph -->
-<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#aabbcc"}}} --><p class="has-text-align-center has-text-color" style="color:#aabbcc">In-Play Betting</p><!-- /wp:paragraph -->
+<!-- wp:group {"style":{"border":{"radius":"16px"},"spacing":{"padding":{"top":"32px","bottom":"32px","left":"24px","right":"24px"}},"color":{"background":"#ffffff"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} --><div class="wp-block-group has-background" style="border-radius:16px;background-color:#ffffff;padding-top:32px;padding-bottom:32px;padding-left:24px;padding-right:24px">
+<!-- wp:group {"layout":{"type":"flex","justifyContent":"center"}} --><div class="wp-block-group">
+<!-- wp:group {"style":{"border":{"radius":"12px"},"spacing":{"padding":{"top":"14px","bottom":"14px","left":"14px","right":"14px"}},"color":{"background":"#eef3ff"}},"layout":{"type":"constrained"}} --><div class="wp-block-group has-background" style="border-radius:12px;background-color:#eef3ff;padding:14px">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"28px","lineHeight":"1"},"spacing":{"margin":{"top":"0","bottom":"0"}}}} --><p class="has-text-align-center" style="font-size:28px;line-height:1;margin-top:0;margin-bottom:0">▶️</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
+</div><!-- /wp:group -->
+<!-- wp:spacer {"height":"12px"} --><div style="height:12px" aria-hidden="true" class="wp-block-spacer"></div><!-- /wp:spacer -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#3e8bff"},"typography":{"fontSize":"42px","fontWeight":"700","lineHeight":"1"}}} --><p class="has-text-align-center has-text-color" style="color:#3e8bff;font-size:42px;font-weight:700;line-height:1">Live</p><!-- /wp:paragraph -->
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"14px","fontWeight":"600"},"color":{"text":"#143056"}}} --><p class="has-text-align-center has-text-color" style="font-size:14px;font-weight:600;color:#143056">In-Play Betting</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
 </div><!-- /wp:column -->
+
 <!-- wp:column --><div class="wp-block-column">
-<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#3e8bff"},"typography":{"fontSize":"42px","fontWeight":"700"}}} --><p class="has-text-align-center has-text-color" style="color:#3e8bff;font-size:42px;font-weight:700">24h</p><!-- /wp:paragraph -->
-<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#aabbcc"}}} --><p class="has-text-align-center has-text-color" style="color:#aabbcc">Fast Payouts</p><!-- /wp:paragraph -->
+<!-- wp:group {"style":{"border":{"radius":"16px"},"spacing":{"padding":{"top":"32px","bottom":"32px","left":"24px","right":"24px"}},"color":{"background":"#ffffff"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} --><div class="wp-block-group has-background" style="border-radius:16px;background-color:#ffffff;padding-top:32px;padding-bottom:32px;padding-left:24px;padding-right:24px">
+<!-- wp:group {"layout":{"type":"flex","justifyContent":"center"}} --><div class="wp-block-group">
+<!-- wp:group {"style":{"border":{"radius":"12px"},"spacing":{"padding":{"top":"14px","bottom":"14px","left":"14px","right":"14px"}},"color":{"background":"#eef3ff"}},"layout":{"type":"constrained"}} --><div class="wp-block-group has-background" style="border-radius:12px;background-color:#eef3ff;padding:14px">
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"28px","lineHeight":"1"},"spacing":{"margin":{"top":"0","bottom":"0"}}}} --><p class="has-text-align-center" style="font-size:28px;line-height:1;margin-top:0;margin-bottom:0">⚡</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
+</div><!-- /wp:group -->
+<!-- wp:spacer {"height":"12px"} --><div style="height:12px" aria-hidden="true" class="wp-block-spacer"></div><!-- /wp:spacer -->
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#3e8bff"},"typography":{"fontSize":"42px","fontWeight":"700","lineHeight":"1"}}} --><p class="has-text-align-center has-text-color" style="color:#3e8bff;font-size:42px;font-weight:700;line-height:1">24h</p><!-- /wp:paragraph -->
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"14px","fontWeight":"600"},"color":{"text":"#143056"}}} --><p class="has-text-align-center has-text-color" style="font-size:14px;font-weight:600;color:#143056">Fast Payouts</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
 </div><!-- /wp:column -->
+
 </div>
 <!-- /wp:columns -->
+<!-- wp:spacer {"height":"32px"} --><div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div><!-- /wp:spacer -->
 </div></div>
 <!-- /wp:cover -->
 
@@ -116,36 +155,50 @@ $content = '
 
 <!-- wp:spacer {"height":"16px"} --><div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div><!-- /wp:spacer -->
 
-<!-- wp:columns {"verticalAlignment":"top"} -->
+<!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"blockGap":{"left":"16px"}}}} -->
 <div class="wp-block-columns are-vertically-aligned-top">
 <!-- wp:column --><div class="wp-block-column">
-<!-- wp:heading {"level":3,"textColor":"mercury-main"} --><h3 class="wp-block-heading has-mercury-main-color has-text-color">Match Winner (1X2)</h3><!-- /wp:heading -->
-<!-- wp:paragraph {"style":{"color":{"text":"#555555"}}} --><p class="has-text-color" style="color:#555555">The simplest bet — pick the winner of a match. In football you have three options: Home win (1), Draw (X), or Away win (2).</p><!-- /wp:paragraph -->
+<!-- wp:group {"style":{"border":{"radius":"14px"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"24px","right":"24px"}},"color":{"background":"#eef3ff"}},"layout":{"type":"constrained"}} --><div class="wp-block-group has-background" style="border-radius:14px;background-color:#eef3ff;padding:24px;height:100%">
+<!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"17px","fontWeight":"700"},"color":{"text":"#143056"}}} --><h3 class="wp-block-heading" style="font-size:17px;font-weight:700;color:#143056">⚽ Match Winner (1X2)</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#4a5568"}}} --><p class="has-text-color" style="color:#4a5568">The simplest bet — pick the winner of a match. In football you have three options: Home win (1), Draw (X), or Away win (2).</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
 </div><!-- /wp:column -->
 <!-- wp:column --><div class="wp-block-column">
-<!-- wp:heading {"level":3,"textColor":"mercury-main"} --><h3 class="wp-block-heading has-mercury-main-color has-text-color">Over / Under</h3><!-- /wp:heading -->
-<!-- wp:paragraph {"style":{"color":{"text":"#555555"}}} --><p class="has-text-color" style="color:#555555">Bet on whether the total number of goals, points, or sets will be over or under a set line. For example: Over 2.5 goals in a football match.</p><!-- /wp:paragraph -->
+<!-- wp:group {"style":{"border":{"radius":"14px"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"24px","right":"24px"}},"color":{"background":"#f4f6f8"}},"layout":{"type":"constrained"}} --><div class="wp-block-group has-background" style="border-radius:14px;background-color:#f4f6f8;padding:24px;height:100%">
+<!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"17px","fontWeight":"700"},"color":{"text":"#143056"}}} --><h3 class="wp-block-heading" style="font-size:17px;font-weight:700;color:#143056">📈 Over / Under</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#4a5568"}}} --><p class="has-text-color" style="color:#4a5568">Bet on whether the total number of goals, points, or sets will be over or under a set line. For example: Over 2.5 goals in a football match.</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
 </div><!-- /wp:column -->
 <!-- wp:column --><div class="wp-block-column">
-<!-- wp:heading {"level":3,"textColor":"mercury-main"} --><h3 class="wp-block-heading has-mercury-main-color has-text-color">Handicap Betting</h3><!-- /wp:heading -->
-<!-- wp:paragraph {"style":{"color":{"text":"#555555"}}} --><p class="has-text-color" style="color:#555555">A virtual advantage or disadvantage applied to a team to level the odds. For example: Manchester City -1.5 goals means they need to win by 2 or more.</p><!-- /wp:paragraph -->
+<!-- wp:group {"style":{"border":{"radius":"14px"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"24px","right":"24px"}},"color":{"background":"#eef3ff"}},"layout":{"type":"constrained"}} --><div class="wp-block-group has-background" style="border-radius:14px;background-color:#eef3ff;padding:24px;height:100%">
+<!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"17px","fontWeight":"700"},"color":{"text":"#143056"}}} --><h3 class="wp-block-heading" style="font-size:17px;font-weight:700;color:#143056">⚖️ Handicap Betting</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#4a5568"}}} --><p class="has-text-color" style="color:#4a5568">A virtual advantage or disadvantage applied to a team to level the odds. For example: Manchester City -1.5 goals means they need to win by 2 or more.</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
 </div><!-- /wp:column -->
 </div>
 <!-- /wp:columns -->
 
-<!-- wp:columns {"verticalAlignment":"top"} -->
+<!-- wp:spacer {"height":"16px"} --><div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div><!-- /wp:spacer -->
+
+<!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"blockGap":{"left":"16px"}}}} -->
 <div class="wp-block-columns are-vertically-aligned-top">
 <!-- wp:column --><div class="wp-block-column">
-<!-- wp:heading {"level":3,"textColor":"mercury-main"} --><h3 class="wp-block-heading has-mercury-main-color has-text-color">Accumulator (Parlay)</h3><!-- /wp:heading -->
-<!-- wp:paragraph {"style":{"color":{"text":"#555555"}}} --><p class="has-text-color" style="color:#555555">Combine multiple selections into one bet for much higher potential returns. All selections must win. Higher risk, but the rewards can be significant.</p><!-- /wp:paragraph -->
+<!-- wp:group {"style":{"border":{"radius":"14px"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"24px","right":"24px"}},"color":{"background":"#f4f6f8"}},"layout":{"type":"constrained"}} --><div class="wp-block-group has-background" style="border-radius:14px;background-color:#f4f6f8;padding:24px;height:100%">
+<!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"17px","fontWeight":"700"},"color":{"text":"#143056"}}} --><h3 class="wp-block-heading" style="font-size:17px;font-weight:700;color:#143056">🎯 Accumulator (Parlay)</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#4a5568"}}} --><p class="has-text-color" style="color:#4a5568">Combine multiple selections into one bet for much higher potential returns. All selections must win. Higher risk, but the rewards can be significant.</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
 </div><!-- /wp:column -->
 <!-- wp:column --><div class="wp-block-column">
-<!-- wp:heading {"level":3,"textColor":"mercury-main"} --><h3 class="wp-block-heading has-mercury-main-color has-text-color">Both Teams to Score</h3><!-- /wp:heading -->
-<!-- wp:paragraph {"style":{"color":{"text":"#555555"}}} --><p class="has-text-color" style="color:#555555">Predict whether both teams will score at least one goal during the match. Popular in football betting — simple yes or no market.</p><!-- /wp:paragraph -->
+<!-- wp:group {"style":{"border":{"radius":"14px"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"24px","right":"24px"}},"color":{"background":"#eef3ff"}},"layout":{"type":"constrained"}} --><div class="wp-block-group has-background" style="border-radius:14px;background-color:#eef3ff;padding:24px;height:100%">
+<!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"17px","fontWeight":"700"},"color":{"text":"#143056"}}} --><h3 class="wp-block-heading" style="font-size:17px;font-weight:700;color:#143056">🥅 Both Teams to Score</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#4a5568"}}} --><p class="has-text-color" style="color:#4a5568">Predict whether both teams will score at least one goal during the match. Popular in football betting — simple yes or no market.</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
 </div><!-- /wp:column -->
 <!-- wp:column --><div class="wp-block-column">
-<!-- wp:heading {"level":3,"textColor":"mercury-main"} --><h3 class="wp-block-heading has-mercury-main-color has-text-color">Live / In-Play Betting</h3><!-- /wp:heading -->
-<!-- wp:paragraph {"style":{"color":{"text":"#555555"}}} --><p class="has-text-color" style="color:#555555">Place bets while a match is in progress. Odds update in real time based on the score and match situation — great for reactive punters.</p><!-- /wp:paragraph -->
+<!-- wp:group {"style":{"border":{"radius":"14px"},"spacing":{"padding":{"top":"24px","bottom":"24px","left":"24px","right":"24px"}},"color":{"background":"#f4f6f8"}},"layout":{"type":"constrained"}} --><div class="wp-block-group has-background" style="border-radius:14px;background-color:#f4f6f8;padding:24px;height:100%">
+<!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"17px","fontWeight":"700"},"color":{"text":"#143056"}}} --><h3 class="wp-block-heading" style="font-size:17px;font-weight:700;color:#143056">📡 Live / In-Play Betting</h3><!-- /wp:heading -->
+<!-- wp:paragraph {"style":{"color":{"text":"#4a5568"}}} --><p class="has-text-color" style="color:#4a5568">Place bets while a match is in progress. Odds update in real time based on the score and match situation — great for reactive punters.</p><!-- /wp:paragraph -->
+</div><!-- /wp:group -->
 </div><!-- /wp:column -->
 </div>
 <!-- /wp:columns -->
@@ -195,28 +248,42 @@ $content = '
 <p class="has-mercury-gray-color has-text-color has-link-color">New to sports betting? Keep these principles in mind to make the most of your experience:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:columns -->
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"24px"}}}} -->
 <div class="wp-block-columns">
-<!-- wp:column --><div class="wp-block-column">
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:group {"style":{"border":{"radius":"14px"},"spacing":{"padding":{"top":"28px","bottom":"28px","left":"28px","right":"28px"}},"color":{"background":"#eef3ff"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background" style="border-radius:14px;background-color:#eef3ff;padding-top:28px;padding-bottom:28px;padding-left:28px;padding-right:28px">
+<!-- wp:heading {"level":3,"textColor":"mercury-main"} --><h3 class="wp-block-heading has-mercury-main-color has-text-color">✅ Good Practices</h3><!-- /wp:heading -->
 <!-- wp:list {"style":{"color":{"text":"#333333"}}} -->
 <ul class="wp-block-list has-text-color" style="color:#333333">
-<li>✅ <strong>Bet only what you can afford to lose</strong> — set a weekly budget and stick to it</li>
-<li>✅ <strong>Shop for the best odds</strong> — even small differences add up over time</li>
-<li>✅ <strong>Stick to sports you know</strong> — your knowledge is your edge</li>
-<li>✅ <strong>Keep records</strong> — track bets, stakes, and results to identify patterns</li>
+<li><strong>Bet only what you can afford to lose</strong> — set a weekly budget and stick to it</li>
+<li><strong>Shop for the best odds</strong> — even small differences add up over time</li>
+<li><strong>Stick to sports you know</strong> — your knowledge is your edge</li>
+<li><strong>Keep records</strong> — track bets, stakes, and results to identify patterns</li>
 </ul>
 <!-- /wp:list -->
-</div><!-- /wp:column -->
-<!-- wp:column --><div class="wp-block-column">
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column">
+<!-- wp:group {"style":{"border":{"radius":"14px"},"spacing":{"padding":{"top":"28px","bottom":"28px","left":"28px","right":"28px"}},"color":{"background":"#f4f6f8"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background" style="border-radius:14px;background-color:#f4f6f8;padding-top:28px;padding-bottom:28px;padding-left:28px;padding-right:28px">
+<!-- wp:heading {"level":3,"textColor":"mercury-main"} --><h3 class="wp-block-heading has-mercury-main-color has-text-color">⚠️ Common Mistakes</h3><!-- /wp:heading -->
 <!-- wp:list {"style":{"color":{"text":"#333333"}}} -->
 <ul class="wp-block-list has-text-color" style="color:#333333">
-<li>⚠️ <strong>Avoid chasing losses</strong> — increasing stakes after a loss rarely works</li>
-<li>⚠️ <strong>Don\'t bet under the influence</strong> — emotional decisions lead to poor bets</li>
-<li>⚠️ <strong>Be cautious with accumulators</strong> — high returns mean high risk</li>
-<li>⚠️ <strong>Read T&amp;Cs on free bets</strong> — rollover requirements apply to most offers</li>
+<li><strong>Avoid chasing losses</strong> — increasing stakes after a loss rarely works</li>
+<li><strong>Don\'t bet under the influence</strong> — emotional decisions lead to poor bets</li>
+<li><strong>Be cautious with accumulators</strong> — high returns mean high risk</li>
+<li><strong>Read T&amp;Cs on free bets</strong> — rollover requirements apply to most offers</li>
 </ul>
 <!-- /wp:list -->
-</div><!-- /wp:column -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
 </div>
 <!-- /wp:columns -->
 

@@ -14,16 +14,92 @@ Version: 1.0.0
     padding-inline: 0;
 }
 
+.slotsl-game {
+    border-radius: 8px !important;
+    overflow: hidden;
+}
+
+.space-offers-archive-item-wrap {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.space-offers-archive-item-button {
+    margin-top: auto;
+}
+
+.space-offers-archive-item-short-desc {
+    margin-block: 15px 20px;
+}
+
+/* =====================================================
+   GLOBAL BUTTON BORDER-RADIUS
+   Change --site-btn-radius to update ALL buttons at once
+   ===================================================== */
+:root {
+    --site-btn-radius: 10px;
+}
+
+button,
+input[type="submit"],
+input[type="button"],
+input[type="reset"],
+a {
+    border-radius: var(--site-btn-radius) !important;
+}
+
 /* Full-width blocks inside casino/bonus/betting archive page templates */
 .space-taxonomy-description .space-page-content {
     overflow: visible;
 }
+
 .space-taxonomy-description .alignfull {
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 100vw;
-    max-width: 100vw;
     margin-top: 0;
     margin-bottom: 0;
+    margin-left: calc(-100vw / 2 + 100% / 2);
+    margin-right: calc(-100vw / 2 + 100% / 2);
+    max-width: 100vw;
+}
+
+/* Full-width blocks inside Full-width Page Template pages (e.g. Betting) */
+.page-template-page-full-width .space-page-content-wrap,
+.page-template-page-full-width .space-page-content {
+    overflow: visible;
+}
+
+.page-template-page-full-width .alignfull {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: calc(-100vw / 2 + 100% / 2);
+    margin-right: calc(-100vw / 2 + 100% / 2);
+    max-width: 100vw;
+}
+
+/* =====================================================
+   SLOTS FILTER — compact layout
+   ===================================================== */
+
+/* Tighten vertical spacing between the two filter rows */
+.slotsl-filters .sl-filter-container {
+    margin-bottom: 0px !important;
+}
+
+.slotsl-filters .sl-filter-container.sl-mobile-filters {
+    margin-bottom: 8px !important;
+}
+
+.slotsl-search,
+.slotsl-providers {
+    margin-bottom: 8px !important;
+}
+
+/* Desktop: compact horizontal layout — both rows */
+@media (min-width: 1200px) {
+    .slotsl-filters .sl-filter-container,
+    .slotsl-filters .sl-filter-container.sl-mobile-filters {
+        justify-content: flex-start !important;
+        gap: 10px;
+    }
 }
